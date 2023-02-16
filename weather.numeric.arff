@@ -1,0 +1,16 @@
+sunny,85,85,FALSE,walk
+sunny,80,90,TRUE,walk
+overcast,83,86,FALSE,jog
+rainy,70,96,FALSE,videogames
+rainy,68,80,FALSE,videogames
+rainy,65,70,TRUE,videogames
+overcast,64,65,TRUE,jog
+sunny,72,95,FALSE,walk
+sunny,69,70,FALSE,walk
+rainy,75,80,FALSE,videogames
+sunny,75,70,TRUE,walk
+overcast,72,90,TRUE,jog
+overcast,81,75,FALSE,jog
+rainy,71,91,TRUE,videogames
+sunny,86,70,FALSE,tan
+cloudy,50,67,TRUE,read
